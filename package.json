@@ -1,0 +1,25 @@
+{
+  "name": "goit-typescript-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NataliaNazarenko/goit-typescript-hw-01"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NataliaNazarenko/goit-typescript-hw-01/issues"
+  },
+  "homepage": "https://github.com/NataliaNazarenko/goit-typescript-hw-01#readme",
+  "devDependencies": {
+    "@web/dev-server": "^0.3.2"
+  }
+
+}
